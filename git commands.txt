@@ -1,0 +1,27 @@
+git branch --show-current
+git pull
+git checkout -b <branchname>
+git status
+
+===================
+1.open git hub
+2.open service ---> open source code ---> note the path
+3.go to local git--->open path name --->right click----open terminal
+4.write git commands   git branch --show --current
+                                      git pull
+                                       git status
+                                      git checkout -b <branchname>
+                                     git branch --show --current
+5. Back ---->rightclick on eclipse.sh---->open STS and give sts workspace name
+6.Go to STS work space---->create path folder name which means service name(STS work space name)
+
+=================================================================================
+
+To delete branch:
+                git checkout master
+                git branch -d <branchname>
+
+
+// To push branch:    #git push origin feature/manjula
+
+                
