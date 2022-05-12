@@ -1,0 +1,249 @@
+1.Immutable means and custome immutable class?
+2.How to clone an object?
+3.spring @autowired by type or by name?
+4.Spring Scopes? 
+5.Exception Handling in springboot?
+6.springboot autocofiguration?
+7.Rest Implementation?
+8.Method overloading program?
+9.java 8 programs?
+10.concurrent hashmap?
+11.Spring dependecy management?
+12.@primary and @qualifier annotation?
+
+
+
+
+
+
+
+
+public calss A {
+
+void show(String name){
+system.out.println("a");
+}
+
+String show(String name){
+system.out.println("venkat");
+return "x";
+}
+
+public static void main(String args[]){
+
+A a = new A();
+a.show("venkat");
+
+}
+
+
+}
+
+
+1.overload and override method?if overload method return type same or different?
+2.Static method overload? staic method override?
+3.consturctoru overload?
+4.How do you sysnchronized method?
+5.Thread methods?
+6.Null value is allowed or not?
+7.does hashmap or hashtable will allow null as key or value? if yes why?
+8.Stream api filter vs Map?
+9. How do you write forEach statement?
+10.Spring boot @ path variable vs @request param?
+11.spring boot project structure?
+12.optional field and mandatory field in url how will you configure?
+13.How do you define defalut variable in spring entity?
+14.@Request Body annotation?
+15.how will you write automatic functionality in spring boot?
+16.Checked exception and unchecked exceptions?
+17.java platform independent?
+18.defalut vs protected?
+19.try catch block exception handling?
+20.Runnable vs callable?
+21.Java 8 feautures? Java 11 features?
+22.How will you write queries in spring boot?
+23.
+
+
+DXC Interview Questions:
+========================
+
+1.String reverse program?
+2.Hashmap<String,Integer> how to sort integer values?
+3.list of values ("Venkat",Krishna,"Krishna") find duplicate and print?
+4.How garbage collector worK?
+5.how many garbage collectors are there in java?
+6.String ==, .equals method diff?
+7.what is comparable and comparator and overload methods?
+8.How to sort varibles how many ways we can sort?
+9.what is functional interface?
+10.what are the new functionalities added in java ?
+11.how will you handle exceptions?
+12.with out try and catch can we write finally block?
+13.spring boot autoconfiguration?
+14.Spring MVC?
+15.Any Oracle queries?
+16.How RestApi calls will you write?
+17.what is git conflict? how to revert back after commiting code?
+18.what is config in git ?
+20.What is status Handler?
+
+19.public class Demo {
+
+void show ( int a , long b){
+System.out.println("a method invoked");
+}
+
+void show ( long a , int b){
+System.out.println("a method invoked");
+}
+
+
+public static void main(String args[]){
+  Demo d1 = new Demo();
+  d1.show(20,20);
+
+}
+
+
+for(int i=0; true; i++){
+System.out.println("hello");
+}
+
+for(int i=0; 0; i++){
+system.out.println("hello");
+}
+
+
+
+
+} 
+
+
+
+
+public class Employee {
+
+int id;
+string name;
+string add;
+boolean true/false;
+
+
+}
+
+
+status Handler (){} ?
+How to get values from RestAPI?
+How to set values from RestAPI?
+
+
+what is the mapper?
+
+query update 
+scanning document?
+query? 
+
+CTS Interview questions:
+=========================
+1.What is funtional interface?
+2.what are java 8 features?
+3.Exceptions and examples?
+4.How exceptions handle ?
+5.final, finally , finalize?
+6.spring vs springboot?
+7.port how can you change?
+8.application properties and 
+application .yml file both
+can we use in same project?
+9.@Enable auto configuration?
+10.Hashmap vs Hashtable?
+11.@componenet scan
+12.why spring boot we have spring?
+13.can we create standalone app in springboot?
+14.Monolith vs Microservices?
+15.what is Eureka?
+16.what zuul Api gate way?
+17.What is Fault Tolerance(Hystrix)?
+18.Microservices adv? disadv?
+19.What are DDL queries?
+20.spring Modules?
+21.what is ORM?
+22.what is GroupBy function?
+23.what are Joins?
+24.Chalanges you faces in project?
+25.How will you commit code in project?
+26.after commiting how will you revert?
+27.what is JPA repository?
+
+https://us02web.zoom.us/w/82967650420?tk=Awvqs3-XbDXcvxfwQKxishVCZv-I1jK-Ljo_7bookPc.DQMAAAATUUHgdBZrRnZERDc0dlJ2S0cwQWFTMDZWby1BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+
+UST Global Interview questions:
+----------------------------------
+1.Java Platform Independent?
+2.Hashmap vs HashTable?
+3.How to synchronize Hashmap?
+4.what is Exception?
+5.Java 8 Memory Loading?
+6.Java 8 features?
+7.Map vs flatMap?
+8.what are the operations in streamAPI?
+9.Spring Injections?
+10.When will you go for setter or constructor?
+11.Spring vs SpringBoot?
+12.SpringBoot Exception?
+13.@SpringBoot Application
+14.@Controll Advice
+15.@Exception Handler
+16.SOAP VS REST?
+17.@Controller VS @RestController
+18.How can you do springboot as Asynchronous?
+19.How to communicate Interservice in Microservice?
+20.How will you map URL in Microservices?
+21.what is Kafka?
+22.what are the interfaces available in Hibernate?
+23.Session is ThreadSafe or not?
+24.what is DDL and DML quqries?
+25.What is Reflection in java?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
